@@ -1,0 +1,728 @@
+08/11/2019 10:54:51 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 10:55:04 AM - WebdriverFactory - INFO: Enter url https://demo.actitime.com/login.do
+08/11/2019 10:56:50 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 10:57:13 AM - WebdriverFactory - INFO: Enter url https://demo.actitime.com/login.do
+08/11/2019 11:05:06 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:05:30 AM - WebdriverFactory - INFO: Enter url https://demo.actitime.com/login.do
+08/11/2019 11:08:44 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:08:47 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:10:32 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:10:34 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:11:29 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:11:30 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:13:15 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:13:17 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:14:39 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:14:40 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:19:05 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:19:07 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:22:22 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:22:24 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:22:25 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:22:25 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:22:25 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:22:25 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:22:25 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:22:25 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:22:25 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:22:25 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:22:25 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:22:25 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:22:25 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:22:25 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:24:30 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:24:32 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:24:33 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:24:33 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:24:33 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:24:33 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:24:33 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:24:33 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:24:33 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:24:33 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:24:33 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:24:33 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:24:33 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:24:33 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:25:04 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:25:05 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:25:06 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:25:06 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:25:06 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:25:06 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:25:06 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:25:06 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:25:06 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:25:06 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:25:06 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:25:06 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:25:06 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:25:06 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:26:32 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:26:33 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:26:34 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:26:34 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:26:34 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:26:34 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:26:34 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:26:34 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:26:34 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:26:34 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:26:34 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:26:34 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:26:34 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:26:34 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:27:02 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:27:03 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:27:04 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:27:04 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:27:04 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:27:04 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:27:04 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:27:04 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:27:04 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:27:04 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:27:04 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:27:04 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:27:04 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:27:04 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:27:59 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:28:00 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:28:01 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:28:01 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:28:01 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:28:01 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:28:01 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:28:01 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:28:01 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:28:01 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:28:01 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:28:01 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:28:01 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:28:01 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:29:37 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:29:38 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:29:39 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:29:39 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:29:39 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:29:39 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:29:39 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:29:39 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:29:39 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:29:39 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:29:39 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:29:39 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:29:39 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:29:39 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:31:00 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:31:02 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:31:03 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:31:03 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:31:03 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:31:03 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:31:03 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:31:03 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:31:03 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:31:03 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:31:03 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:31:03 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:31:03 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:31:03 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:32:16 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:32:18 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:32:19 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:32:19 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:32:19 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:32:19 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:32:19 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:32:19 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:32:19 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:32:19 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:32:19 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:32:19 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:32:19 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:32:19 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:32:35 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:32:36 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:32:37 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:32:37 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:32:37 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:32:37 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:32:37 AM - LoginPO - ERROR: Unable to Send data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:32:37 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:32:37 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:32:37 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:32:37 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:32:37 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:32:38 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:32:38 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:35:10 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:35:12 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:35:13 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/11/2019 11:35:13 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:35:13 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:35:13 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/11/2019 11:35:13 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:35:13 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:35:13 AM - LoginPO - ERROR: Please provide the valid locator
+08/11/2019 11:35:13 AM - LoginPO - ERROR: Unable to Click on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:35:13 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:35:13 AM - HomePO - ERROR: Please provide the valid locator
+08/11/2019 11:35:13 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:35:13 AM - HomePO - INFO: Clicked on logout btn
+08/11/2019 11:37:21 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/11/2019 11:37:23 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/11/2019 11:37:24 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/11/2019 11:37:24 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/11/2019 11:37:24 AM - LoginPO - INFO: Entered user name admin
+08/11/2019 11:37:24 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/11/2019 11:37:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/11/2019 11:37:25 AM - LoginPO - INFO: Entered password manager
+08/11/2019 11:37:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/11/2019 11:37:25 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/11/2019 11:37:25 AM - LoginPO - INFO: Clicked on login btn
+08/11/2019 11:37:31 AM - HomePO - INFO: Identified element with locator xpathLocator value //a[contains(text(),'Logout')]
+08/11/2019 11:37:31 AM - HomePO - INFO: Clicked on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/11/2019 11:37:31 AM - HomePO - INFO: Clicked on logout btn
+08/15/2019 10:47:14 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 10:47:17 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 10:47:18 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 10:47:18 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/15/2019 10:47:18 AM - LoginPO - INFO: Entered user name admin
+08/15/2019 10:47:18 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 10:47:18 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/15/2019 10:47:18 AM - LoginPO - INFO: Entered password manager
+08/15/2019 10:47:18 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 10:47:19 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 10:47:19 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 10:47:20 AM - HomePO - INFO: Identified element with locator xpathLocator value //a[contains(text(),'Logout')]
+08/15/2019 10:47:20 AM - HomePO - ERROR: Unable to Click on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/15/2019 10:47:20 AM - HomePO - INFO: Clicked on logout btn
+08/15/2019 10:51:53 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 10:51:54 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 10:51:55 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 10:51:56 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin
+08/15/2019 10:51:56 AM - LoginPO - INFO: Entered user name admin
+08/15/2019 10:51:56 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 10:51:56 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager
+08/15/2019 10:51:56 AM - LoginPO - INFO: Entered password manager
+08/15/2019 10:51:56 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 10:51:56 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 10:51:56 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 10:52:11 AM - HomePO - INFO: Identified element with locator xpathLocator value //a[contains(text(),'Logout')]
+08/15/2019 10:52:11 AM - HomePO - INFO: Clicked on Element with locator xpathlocator value //a[contains(text(),'Logout')]
+08/15/2019 10:52:11 AM - HomePO - INFO: Clicked on logout btn
+08/15/2019 11:05:00 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:05:01 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:05:02 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:05:02 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:05:02 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:05:02 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:05:02 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value pwd1
+08/15/2019 11:05:02 AM - LoginPO - INFO: Entered password pwd1
+08/15/2019 11:05:02 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:05:02 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:05:02 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:05:07 AM - LoginPO - ERROR: Please provide the valid locator
+08/15/2019 11:07:28 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:07:30 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:07:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:07:31 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:07:31 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:07:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:07:31 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value pwd1
+08/15/2019 11:07:31 AM - LoginPO - INFO: Entered password pwd1
+08/15/2019 11:07:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:07:31 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:07:31 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:07:36 AM - LoginPO - ERROR: Please provide the valid locator
+08/15/2019 11:14:58 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:14:59 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:15:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:15:00 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:15:00 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:15:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:15:00 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value pwd1
+08/15/2019 11:15:00 AM - LoginPO - INFO: Entered password pwd1
+08/15/2019 11:15:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:15:00 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:15:00 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:15:05 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:16:26 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:16:28 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:16:29 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:16:29 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:16:29 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:16:29 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:16:29 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value pwd1
+08/15/2019 11:16:29 AM - LoginPO - INFO: Entered password pwd1
+08/15/2019 11:16:29 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:16:29 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:16:29 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:16:34 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:17:20 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:17:23 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:17:24 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:17:24 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:17:24 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:17:24 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:17:24 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value pwd1
+08/15/2019 11:17:24 AM - LoginPO - INFO: Entered password pwd1
+08/15/2019 11:17:24 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:17:24 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:17:24 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:17:29 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:17:29 AM - Test_Case2 - INFO: Validated the error message successfully
+08/15/2019 11:19:07 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:19:10 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:19:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:19:11 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:19:11 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:19:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:19:11 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value pwd1
+08/15/2019 11:19:11 AM - LoginPO - INFO: Entered password pwd1
+08/15/2019 11:19:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:19:11 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:19:11 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:19:16 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:32:22 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:32:23 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:32:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:32:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:32:25 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:32:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:32:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:32:25 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:32:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:25 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:25 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:32:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:32:30 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:32:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:32:30 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:32:30 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:32:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:32:30 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:32:30 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:32:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:30 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:30 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:32:35 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:32:35 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:32:35 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:32:35 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:32:35 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:32:35 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:32:35 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:32:35 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:32:35 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:35 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:35 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:32:40 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:32:40 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:32:40 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:32:40 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:32:40 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:32:40 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:32:41 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:32:41 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:32:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:41 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:32:41 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:32:46 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:32:46 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:47:52 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:47:54 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:47:55 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:47:55 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:47:55 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:47:55 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:47:55 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:47:55 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:47:55 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:47:55 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:47:55 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:48:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:48:00 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:48:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:48:00 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:48:00 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:48:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:48:00 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:48:00 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:48:00 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:48:01 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:48:01 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:48:06 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:48:06 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:48:06 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:48:06 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:48:06 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:48:06 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:48:06 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:48:06 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:48:06 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:48:06 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:48:06 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:48:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:48:11 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:48:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:48:11 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:48:11 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:48:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:48:11 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:48:11 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:48:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:48:11 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:48:11 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:48:16 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:48:16 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:49:45 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:49:46 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:49:48 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:49:48 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:49:48 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:49:48 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:49:48 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:49:48 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:49:48 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:49:48 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:49:48 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:49:53 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:49:53 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:49:53 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:49:53 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:49:53 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:49:53 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:49:53 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:49:53 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:49:53 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:49:53 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:49:53 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:49:58 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:49:58 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:49:58 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:49:58 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:49:58 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:49:58 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:49:58 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:49:58 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:49:58 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:49:58 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:49:58 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:50:03 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:50:03 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:50:03 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:50:03 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:50:03 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:50:03 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:50:03 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:50:03 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:50:03 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:50:04 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:50:04 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:50:09 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:50:09 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:52:33 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:52:35 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:52:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:52:36 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:52:36 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:52:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:52:36 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:52:36 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:52:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:36 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:36 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:52:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:52:41 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:52:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:52:41 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:52:41 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:52:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:52:41 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:52:41 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:52:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:41 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:41 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:52:46 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:52:47 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:52:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:52:47 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:52:47 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:52:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:52:47 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:52:47 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:52:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:47 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:47 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:52:52 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:52:52 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:52:52 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:52:52 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:52:52 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:52:52 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:52:52 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:52:52 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:52:52 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:52 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:52:52 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:52:57 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:52:57 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:53:28 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:53:30 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:53:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:53:31 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:53:31 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:53:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:53:31 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:53:31 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:53:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:31 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:31 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:53:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:53:36 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:53:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:53:36 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:53:36 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:53:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:53:36 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:53:36 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:53:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:36 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:36 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:53:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:53:41 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:53:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:53:41 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:53:41 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:53:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:53:41 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:53:41 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:53:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:41 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:41 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:53:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:53:47 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:53:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:53:47 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:53:47 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:53:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:53:47 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:53:47 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:53:47 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:47 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:53:47 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:53:52 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:53:52 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:54:12 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:54:14 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:54:15 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:54:15 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:54:15 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:54:15 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:54:15 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:54:15 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:54:15 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:54:15 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:54:15 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:54:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:54:20 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:54:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:54:20 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:54:20 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:54:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:54:20 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:54:20 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:54:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:54:20 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:54:20 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:54:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:54:25 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:54:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:54:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:54:25 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:54:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:54:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:54:25 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:54:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:54:25 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:54:25 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:54:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:54:31 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:54:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:56:03 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:56:04 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:56:05 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:56:05 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:56:05 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:56:05 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:56:05 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:56:05 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:56:05 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:05 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:05 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:56:10 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:56:10 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:56:10 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:56:10 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:56:10 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:56:10 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:56:11 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:56:11 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:56:11 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:11 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:11 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:56:16 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:56:16 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:56:16 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:56:16 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:56:16 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:56:16 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:56:16 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:56:16 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:56:16 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:16 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:16 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:56:21 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:56:21 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:56:21 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:56:21 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:56:21 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:56:21 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:56:21 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:56:21 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:56:21 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:21 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:56:21 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:56:26 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:56:26 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:58:17 AM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 11:58:19 AM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 11:58:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:58:20 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 11:58:20 AM - LoginPO - INFO: Entered user name admin1
+08/15/2019 11:58:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:58:20 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 11:58:20 AM - LoginPO - INFO: Entered password manager1
+08/15/2019 11:58:20 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:20 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:20 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:58:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:58:25 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:58:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:58:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 11:58:25 AM - LoginPO - INFO: Entered user name admin2
+08/15/2019 11:58:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:58:25 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 11:58:25 AM - LoginPO - INFO: Entered password manager2
+08/15/2019 11:58:25 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:25 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:25 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:58:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:58:30 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:58:30 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:58:30 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 11:58:30 AM - LoginPO - INFO: Entered user name admin3
+08/15/2019 11:58:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:58:31 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 11:58:31 AM - LoginPO - INFO: Entered password manager3
+08/15/2019 11:58:31 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:31 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:31 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:58:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:58:36 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 11:58:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 11:58:36 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 11:58:36 AM - LoginPO - INFO: Entered user name admin4
+08/15/2019 11:58:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 11:58:36 AM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 11:58:36 AM - LoginPO - INFO: Entered password manager4
+08/15/2019 11:58:36 AM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:36 AM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 11:58:36 AM - LoginPO - INFO: Clicked on login btn
+08/15/2019 11:58:41 AM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 11:58:41 AM - Test_Case3 - INFO: Validated the error message successfully
+08/15/2019 12:04:52 PM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 12:04:53 PM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 12:04:55 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:04:55 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 12:04:55 PM - LoginPO - INFO: Entered user name admin1
+08/15/2019 12:04:55 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:04:55 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 12:04:55 PM - LoginPO - INFO: Entered password manager1
+08/15/2019 12:04:55 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:04:55 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:04:55 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:05:00 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:05:00 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:05:00 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 12:05:00 PM - LoginPO - INFO: Entered user name admin2
+08/15/2019 12:05:00 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:05:00 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 12:05:00 PM - LoginPO - INFO: Entered password manager2
+08/15/2019 12:05:00 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:05:00 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:05:00 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:05:05 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:05:05 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:05:05 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 12:05:05 PM - LoginPO - INFO: Entered user name admin3
+08/15/2019 12:05:05 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:05:05 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 12:05:05 PM - LoginPO - INFO: Entered password manager3
+08/15/2019 12:05:05 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:05:05 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:05:05 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:05:10 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:05:10 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:05:10 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 12:05:10 PM - LoginPO - INFO: Entered user name admin4
+08/15/2019 12:05:10 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:05:10 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 12:05:10 PM - LoginPO - INFO: Entered password manager4
+08/15/2019 12:05:10 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:05:11 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:05:11 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:05:16 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:06:23 PM - WebdriverFactory - INFO: Execution will start in chrome browser
+08/15/2019 12:06:24 PM - WebdriverFactory - INFO: Enter url http://localhost/login.do
+08/15/2019 12:06:26 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:06:26 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin1
+08/15/2019 12:06:26 PM - LoginPO - INFO: Entered user name admin1
+08/15/2019 12:06:26 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:06:26 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager1
+08/15/2019 12:06:26 PM - LoginPO - INFO: Entered password manager1
+08/15/2019 12:06:26 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:26 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:26 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:06:31 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:06:31 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:06:31 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin2
+08/15/2019 12:06:31 PM - LoginPO - INFO: Entered user name admin2
+08/15/2019 12:06:31 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:06:31 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager2
+08/15/2019 12:06:31 PM - LoginPO - INFO: Entered password manager2
+08/15/2019 12:06:31 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:31 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:31 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:06:36 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:06:37 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:06:37 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin3
+08/15/2019 12:06:37 PM - LoginPO - INFO: Entered user name admin3
+08/15/2019 12:06:37 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:06:37 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager3
+08/15/2019 12:06:37 PM - LoginPO - INFO: Entered password manager3
+08/15/2019 12:06:37 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:37 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:37 PM - LoginPO - INFO: Clicked on login btn
+08/15/2019 12:06:42 PM - LoginPO - INFO: Identified element with locator xpathLocator value //span[@class='errormsg']
+08/15/2019 12:06:42 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='username']
+08/15/2019 12:06:42 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='username'] value admin4
+08/15/2019 12:06:42 PM - LoginPO - INFO: Entered user name admin4
+08/15/2019 12:06:42 PM - LoginPO - INFO: Identified element with locator xpathLocator value //input[@name='pwd']
+08/15/2019 12:06:42 PM - LoginPO - INFO: Sent data on Element with locator xpathlocator value //input[@name='pwd'] value manager4
+08/15/2019 12:06:42 PM - LoginPO - INFO: Entered password manager4
+08/15/2019 12:06:42 PM - LoginPO - INFO: Identified element with locator xpathLocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:42 PM - LoginPO - INFO: Clicked on Element with locator xpathlocator value //div[contains(text(),'Login')]
+08/15/2019 12:06:42 PM - LoginPO - INFO: Clicked on login btn
